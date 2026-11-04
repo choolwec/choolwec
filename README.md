@@ -114,6 +114,15 @@ Live demos and write-ups for all of these are on my [portfolio](https://choolwec
 
 ---
 
+## Right now
+
+- **Building:** internal tools with agentic AI, and my next game and app side projects.
+- **Reading:** *The Signal and the Noise* by Nate Silver.
+- **Playing:** manager games, and blitz when there's time.
+- **Open to:** conversations about analytics, AI adoption and building useful things. The quickest route is [LinkedIn](https://linkedin.com/in/choolwe-cheelo).
+
+---
+
 ## Off the clock
 
 - **Basketball:** NBA fan (Lakers) and weekend pickup player, which is exactly why MyGM exists.
@@ -131,13 +140,11 @@ Live demos and write-ups for all of these are on my [portfolio](https://choolwec
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=choolwec&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choolwec&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<!-- Snake animation: needs a GitHub Actions workflow in this repo (Platane/snk). Uncomment once the workflow has run. -->
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choolwec/choolwec/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choolwec/choolwec/output/github-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/choolwec/choolwec/output/github-snake.svg" />
 </picture>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5b301,100:0b1f3a&height=100&section=footer" alt="" width="100%" />
 
